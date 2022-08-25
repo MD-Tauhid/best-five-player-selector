@@ -1,0 +1,40 @@
+
+body{
+    background-color: #151515;
+}
+
+.bg-header{
+    background-color: #000000;
+}
+
+.header-color{
+    color: #ff5e19;
+}
+
+.header-font{
+    font-family: 'Berkshire Swash', cursive;
+}
+
+.img-mbappe{
+    position: absolute;
+    width: 18%;
+    left: 0;
+    top: 5.79rem;
+}
+
+.img-football{
+    width: 10%;
+    right: 0;
+    top: 16.79rem;
+}
+
+.img-shadow{
+    box-shadow: 0 4px 8px 0px rgba(255, 255, 255, 0.5);
+}
+
+.bg-card{
+    background-color: #0d0d0d;
+}
+.card-border{
+    border: 1px solid #434343;
+}
